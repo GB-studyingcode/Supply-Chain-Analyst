@@ -366,9 +366,8 @@ The biggest lesson from this project is:
 
 ## 9. Dashboard Preview
 
-You can add screenshots here:
 
-```text
+
 /images/supply-page.png
 /images/manufacturing-page.png
 /images/inventory-logistics-page.png
