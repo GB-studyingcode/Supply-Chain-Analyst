@@ -368,11 +368,17 @@ The biggest lesson from this project is:
 
 
 
-/images/supply-page.png
-/images/manufacturing-page.png
-/images/inventory-logistics-page.png
-/images/sales-customer-page.png
-```
+### Supply Performance
+![Supply Page](images/supply-page.png)
+
+### Manufacturing & QC
+![Manufacturing Page](images/manufacturing-page.png)
+
+### Inventory & Logistics
+![Inventory Logistics Page](images/inventory-logistics-page.png)
+
+### Sales & Customer
+![Sales Customer Page](images/sales-customer-page.png)
 
 ---
 
